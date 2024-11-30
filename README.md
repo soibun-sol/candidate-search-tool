@@ -1,33 +1,35 @@
-# React + TypeScript + Vite
+# Candidate Search Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Currently, two official plugins are available:
+  ## Description
+  the candidate search tool helps you browse candidates for postions or even project partners by getting their github profile through an API
 
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md), which uses [Babel](https://babeljs.io/) for Fast Refresh
-* [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc), which uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributors](#contributors)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
 
-## Expanding the ESLint configuration
+  ## Installation
+  no installation necesary
 
-If you're developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+  ## Usage
+  its usage is to sort through potential candidates for jobs or project partners. you can skip the ones oyu dont want and save the ones you want to look into further
 
-* Configure the top-level `parserOptions` property as follows:
+  ## Contributors
+  Keegan Hinton
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+  ## Tests
+  n/a
 
-* Replace `plugin:@typescript-eslint/recommended` with `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`.
-* Optionally, add `plugin:@typescript-eslint/stylistic-type-checked`.
-* Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
+  ## License
+   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+     This project contains a [MIT](https://opensource.org/licenses/MIT) license.
 
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  ## Questions
+  Github: [github.com/soibun-sol](https://github.com/github.com/soibun-sol)
+  Email: Khinton386@gmail.com
+  
